@@ -1,0 +1,5 @@
+PATH="$HOME/.local/scripts:$PATH"
+export PATH=~/.npm-global/bin:$PATH
+
+# Where should I put you?
+bindkey -s ^f "tmux-sessionizer\n"
